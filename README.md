@@ -18,7 +18,7 @@ A sleek Ubuntu-inspired cursor theme for Windows 10/11, ported from the original
 ## Installation 🛠️
 
 ### Automated Installation (Recommended)
-1. Download the `Yaru-Cursors-Windows` folder.
+1. Download the zip from Github or clone the repository
 2. **Right-click** `install.inf` and select **Install**.
 3. Open **Mouse Settings**:
    - Go to *Settings > Devices > Mouse > Additional mouse options*.
